@@ -770,7 +770,6 @@ input[type=number]::-webkit-inner-spin-button{-webkit-appearance:none}
   .adm-main { padding-bottom: 54px; }
   .adm-bottom-nav { display: flex !important; }
   /* Prevent any admin panel from bleeding off-screen */
-  .adm-settings-sidebar { display: none !important; }
   .adm-split { overflow: hidden; }
   .adm-cat-wrap { flex-direction: column; }
   .adm-cat-wrap .sidebar { width: 100%; height: auto; max-height: 40vh; }
